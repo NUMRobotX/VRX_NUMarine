@@ -1,0 +1,4 @@
+Invoking command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/vrx_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/azaria007/Documents/GitHub/VRX_NUMarine/build/vrx_gazebo -- -j8 -l8
+Invoked command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/vrx_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/azaria007/Documents/GitHub/VRX_NUMarine/build/vrx_gazebo -- -j8 -l8
+Invoking command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/vrx_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/azaria007/Documents/GitHub/VRX_NUMarine/build/vrx_gazebo
+Invoked command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/vrx_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/azaria007/Documents/GitHub/VRX_NUMarine/build/vrx_gazebo

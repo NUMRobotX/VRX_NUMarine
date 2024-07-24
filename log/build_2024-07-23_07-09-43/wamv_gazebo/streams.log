@@ -1,0 +1,68 @@
+[0.050s] Invoking command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/wamv_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble GZ_SIM_RESOURCE_PATH=/home/azaria007/Documents/GitHub/VRX_NUMarine/install/share:${GZ_SIM_RESOURCE_PATH} PYTHONPATH=/home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/python3.10/site-packages:/home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages /usr/bin/cmake /home/azaria007/Documents/GitHub/VRX_NUMarine/src/vrx/ros_packages/vrx_urdf/wamv_gazebo -DCMAKE_INSTALL_PREFIX=/home/azaria007/Documents/GitHub/VRX_NUMarine/install
+[0.270s] -- The C compiler identification is GNU 11.4.0
+[0.499s] -- The CXX compiler identification is GNU 11.4.0
+[0.547s] -- Detecting C compiler ABI info
+[0.967s] -- Detecting C compiler ABI info - done
+[0.999s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.004s] -- Detecting C compile features
+[1.005s] -- Detecting C compile features - done
+[1.020s] -- Detecting CXX compiler ABI info
+[1.414s] -- Detecting CXX compiler ABI info - done
+[1.466s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.466s] -- Detecting CXX compile features
+[1.466s] -- Detecting CXX compile features - done
+[1.477s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.155s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.448s] -- Found xacro: 2.0.8 (/opt/ros/humble/share/xacro/cmake)
+[2.450s] -- Found wamv_description: 1.3.0 (/home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_description/cmake)
+[2.681s] -- Configuring done
+[2.711s] -- Generating done
+[2.718s] -- Build files have been written to: /home/azaria007/Documents/GitHub/VRX_NUMarine/build/wamv_gazebo
+[2.733s] Invoked command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/wamv_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble GZ_SIM_RESOURCE_PATH=/home/azaria007/Documents/GitHub/VRX_NUMarine/install/share:${GZ_SIM_RESOURCE_PATH} PYTHONPATH=/home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/python3.10/site-packages:/home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages /usr/bin/cmake /home/azaria007/Documents/GitHub/VRX_NUMarine/src/vrx/ros_packages/vrx_urdf/wamv_gazebo -DCMAKE_INSTALL_PREFIX=/home/azaria007/Documents/GitHub/VRX_NUMarine/install
+[2.734s] Invoking command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/wamv_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble GZ_SIM_RESOURCE_PATH=/home/azaria007/Documents/GitHub/VRX_NUMarine/install/share:${GZ_SIM_RESOURCE_PATH} PYTHONPATH=/home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/python3.10/site-packages:/home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages /usr/bin/cmake --build /home/azaria007/Documents/GitHub/VRX_NUMarine/build/wamv_gazebo -- -j8 -l8
+[2.828s] Invoked command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/wamv_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble GZ_SIM_RESOURCE_PATH=/home/azaria007/Documents/GitHub/VRX_NUMarine/install/share:${GZ_SIM_RESOURCE_PATH} PYTHONPATH=/home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/python3.10/site-packages:/home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages /usr/bin/cmake --build /home/azaria007/Documents/GitHub/VRX_NUMarine/build/wamv_gazebo -- -j8 -l8
+[3.004s] Invoking command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/wamv_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble GZ_SIM_RESOURCE_PATH=/home/azaria007/Documents/GitHub/VRX_NUMarine/install/share:${GZ_SIM_RESOURCE_PATH} PYTHONPATH=/home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/python3.10/site-packages:/home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages /usr/bin/cmake --install /home/azaria007/Documents/GitHub/VRX_NUMarine/build/wamv_gazebo
+[3.020s] -- Install configuration: ""
+[3.020s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/models
+[3.020s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/models/gps
+[3.020s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/models/gps/mesh
+[3.022s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/models/gps/mesh/gps.png
+[3.025s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/models/gps/mesh/gps.dae
+[3.027s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/models/gps/model.config
+[3.028s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/urdf
+[3.029s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/urdf/dynamics
+[3.029s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/urdf/dynamics/wamv_gazebo_dynamics_plugin.xacro
+[3.031s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/urdf/macros.xacro
+[3.033s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/urdf/wamv_gazebo.urdf.xacro
+[3.035s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/urdf/wamv_gazebo.xacro
+[3.039s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/urdf/thruster_layouts
+[3.040s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/urdf/thruster_layouts/wamv_x_thrusters.xacro
+[3.044s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/urdf/thruster_layouts/wamv_aft_thrusters.xacro
+[3.046s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/urdf/thruster_layouts/wamv_t_thrusters.xacro
+[3.047s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/urdf/thruster_layouts/wamv_gazebo_thruster_config.xacro
+[3.047s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/urdf/components
+[3.047s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/urdf/components/wamv_camera.xacro
+[3.048s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/urdf/components/wamv_imu.xacro
+[3.051s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/urdf/components/wamv_p3d.xacro
+[3.051s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/urdf/components/wamv_gps.xacro
+[3.052s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/urdf/components/ball_shooter.xacro
+[3.054s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/urdf/components/wamv_pinger.xacro
+[3.055s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/urdf/components/wamv_planar_lidar.xacro
+[3.056s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/urdf/components/wamv_3d_lidar.xacro
+[3.058s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/urdf/components/lidar.xacro
+[3.059s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/ament_index/resource_index/package_run_dependencies/wamv_gazebo
+[3.059s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/ament_index/resource_index/parent_prefix_path/wamv_gazebo
+[3.062s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/environment/ament_prefix_path.sh
+[3.069s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/environment/ament_prefix_path.dsv
+[3.069s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/environment/path.sh
+[3.069s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/environment/path.dsv
+[3.069s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/local_setup.bash
+[3.069s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/local_setup.sh
+[3.070s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/local_setup.zsh
+[3.070s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/local_setup.dsv
+[3.070s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/package.dsv
+[3.070s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/ament_index/resource_index/packages/wamv_gazebo
+[3.070s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/cmake/wamv_gazeboConfig.cmake
+[3.070s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/cmake/wamv_gazeboConfig-version.cmake
+[3.070s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/wamv_gazebo/package.xml
+[3.077s] Invoked command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/wamv_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble GZ_SIM_RESOURCE_PATH=/home/azaria007/Documents/GitHub/VRX_NUMarine/install/share:${GZ_SIM_RESOURCE_PATH} PYTHONPATH=/home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/python3.10/site-packages:/home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages /usr/bin/cmake --install /home/azaria007/Documents/GitHub/VRX_NUMarine/build/wamv_gazebo

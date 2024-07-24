@@ -1,0 +1,22 @@
+[1.411s] Invoking command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/teleop_cpp_ros2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/azaria007/Documents/GitHub/VRX_NUMarine/build/teleop_cpp_ros2 -- -j8 -l8
+[1.755s] [100%] Built target usv_teleop
+[1.984s] Invoked command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/teleop_cpp_ros2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/azaria007/Documents/GitHub/VRX_NUMarine/build/teleop_cpp_ros2 -- -j8 -l8
+[2.208s] Invoking command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/teleop_cpp_ros2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/azaria007/Documents/GitHub/VRX_NUMarine/build/teleop_cpp_ros2
+[2.367s] -- Install configuration: ""
+[2.367s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/teleop_cpp_ros2/usv_teleop
+[2.367s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/ament_index/resource_index/package_run_dependencies/teleop_cpp_ros2
+[2.367s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/ament_index/resource_index/parent_prefix_path/teleop_cpp_ros2
+[2.367s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/teleop_cpp_ros2/environment/ament_prefix_path.sh
+[2.368s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/teleop_cpp_ros2/environment/ament_prefix_path.dsv
+[2.368s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/teleop_cpp_ros2/environment/path.sh
+[2.368s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/teleop_cpp_ros2/environment/path.dsv
+[2.368s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/teleop_cpp_ros2/local_setup.bash
+[2.368s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/teleop_cpp_ros2/local_setup.sh
+[2.368s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/teleop_cpp_ros2/local_setup.zsh
+[2.368s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/teleop_cpp_ros2/local_setup.dsv
+[2.369s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/teleop_cpp_ros2/package.dsv
+[2.369s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/ament_index/resource_index/packages/teleop_cpp_ros2
+[2.369s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/teleop_cpp_ros2/cmake/teleop_cpp_ros2Config.cmake
+[2.369s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/teleop_cpp_ros2/cmake/teleop_cpp_ros2Config-version.cmake
+[2.369s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/teleop_cpp_ros2/package.xml
+[2.370s] Invoked command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/teleop_cpp_ros2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/azaria007/Documents/GitHub/VRX_NUMarine/build/teleop_cpp_ros2

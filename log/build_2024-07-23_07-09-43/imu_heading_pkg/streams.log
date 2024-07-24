@@ -1,0 +1,78 @@
+[0.049s] Invoking command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/imu_heading_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/azaria007/Documents/GitHub/VRX_NUMarine/src/vrx/ros_packages/imu_heading_pkg -DCMAKE_INSTALL_PREFIX=/home/azaria007/Documents/GitHub/VRX_NUMarine/install
+[0.721s] -- The C compiler identification is GNU 11.4.0
+[0.721s] -- The CXX compiler identification is GNU 11.4.0
+[0.722s] -- Detecting C compiler ABI info
+[0.792s] -- Detecting C compiler ABI info - done
+[0.809s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.809s] -- Detecting C compile features
+[0.809s] -- Detecting C compile features - done
+[0.819s] -- Detecting CXX compiler ABI info
+[1.070s] -- Detecting CXX compiler ABI info - done
+[1.089s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.089s] -- Detecting CXX compile features
+[1.089s] -- Detecting CXX compile features - done
+[1.100s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.708s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.973s] -- Found rclcpp: 16.0.9 (/opt/ros/humble/share/rclcpp/cmake)
+[2.085s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.102s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.144s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[2.185s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.306s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.521s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[2.529s] -- Found rmw_fastrtps_cpp: 6.2.6 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[2.786s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[2.853s] -- Found FastRTPS: /opt/ros/humble/include  
+[2.956s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.983s] -- Looking for pthread.h
+[3.171s] -- Looking for pthread.h - found
+[3.178s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[3.378s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[3.381s] -- Found Threads: TRUE  
+[3.895s] -- Found sensor_msgs: 4.2.4 (/opt/ros/humble/share/sensor_msgs/cmake)
+[4.253s] -- Found tf2_ros: 0.25.7 (/opt/ros/humble/share/tf2_ros/cmake)
+[5.484s] -- Found tf2_geometry_msgs: 0.25.7 (/opt/ros/humble/share/tf2_geometry_msgs/cmake)
+[5.532s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[5.539s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[5.539s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[5.563s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[5.812s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[5.813s] -- Configured cppcheck include dirs: /home/azaria007/Documents/GitHub/VRX_NUMarine/src/vrx/ros_packages/imu_heading_pkg/include
+[5.813s] -- Configured cppcheck exclude dirs and/or files: 
+[5.814s] -- Added test 'lint_cmake' to check CMake code style
+[5.816s] -- Added test 'uncrustify' to check C / C++ code style
+[5.816s] -- Configured uncrustify additional arguments: 
+[5.817s] -- Added test 'xmllint' to check XML markup files
+[5.822s] -- Configuring done
+[5.851s] -- Generating done
+[5.856s] -- Build files have been written to: /home/azaria007/Documents/GitHub/VRX_NUMarine/build/imu_heading_pkg
+[5.891s] Invoked command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/imu_heading_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/azaria007/Documents/GitHub/VRX_NUMarine/src/vrx/ros_packages/imu_heading_pkg -DCMAKE_INSTALL_PREFIX=/home/azaria007/Documents/GitHub/VRX_NUMarine/install
+[5.892s] Invoking command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/imu_heading_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/azaria007/Documents/GitHub/VRX_NUMarine/build/imu_heading_pkg -- -j8 -l8
+[6.042s] [ 50%] [32mBuilding CXX object CMakeFiles/imu_heading_node.dir/src/imu_heading_node.cpp.o[0m
+[6.691s] In file included from [01m[K/home/azaria007/Documents/GitHub/VRX_NUMarine/src/vrx/ros_packages/imu_heading_pkg/src/imu_heading_node.cpp:3[m[K:
+[6.691s] [01m[K/opt/ros/humble/include/tf2_geometry_msgs/tf2_geometry_msgs/tf2_geometry_msgs.h:35:2:[m[K [01;35m[Kwarning: [m[K#warning This header is obsolete, please include tf2_geometry_msgs/tf2_geometry_msgs.hpp instead [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wcpp-Wcpp]8;;[m[K]
+[6.691s]    35 | #[01;35m[Kwarning[m[K This header is obsolete, please include tf2_geometry_msgs/tf2_geometry_msgs.hpp instead
+[6.691s]       |  [01;35m[K^~~~~~~[m[K
+[24.406s] [100%] [32m[1mLinking CXX executable imu_heading_node[0m
+[25.616s] [100%] Built target imu_heading_node
+[25.635s] Invoked command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/imu_heading_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/azaria007/Documents/GitHub/VRX_NUMarine/build/imu_heading_pkg -- -j8 -l8
+[25.693s] Invoking command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/imu_heading_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/azaria007/Documents/GitHub/VRX_NUMarine/build/imu_heading_pkg
+[25.705s] -- Install configuration: ""
+[25.708s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/imu_heading_pkg/imu_heading_node
+[25.713s] -- Set runtime path of "/home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/imu_heading_pkg/imu_heading_node" to ""
+[25.713s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/ament_index/resource_index/package_run_dependencies/imu_heading_pkg
+[25.714s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/ament_index/resource_index/parent_prefix_path/imu_heading_pkg
+[25.714s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/imu_heading_pkg/environment/ament_prefix_path.sh
+[25.714s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/imu_heading_pkg/environment/ament_prefix_path.dsv
+[25.714s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/imu_heading_pkg/environment/path.sh
+[25.714s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/imu_heading_pkg/environment/path.dsv
+[25.715s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/imu_heading_pkg/local_setup.bash
+[25.715s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/imu_heading_pkg/local_setup.sh
+[25.715s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/imu_heading_pkg/local_setup.zsh
+[25.715s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/imu_heading_pkg/local_setup.dsv
+[25.715s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/imu_heading_pkg/package.dsv
+[25.716s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/ament_index/resource_index/packages/imu_heading_pkg
+[25.716s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/imu_heading_pkg/cmake/imu_heading_pkgConfig.cmake
+[25.716s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/imu_heading_pkg/cmake/imu_heading_pkgConfig-version.cmake
+[25.717s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/imu_heading_pkg/package.xml
+[25.722s] Invoked command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/imu_heading_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/azaria007/Documents/GitHub/VRX_NUMarine/build/imu_heading_pkg

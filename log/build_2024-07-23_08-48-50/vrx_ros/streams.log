@@ -1,0 +1,26 @@
+[0.090s] Invoking command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/vrx_ros': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/azaria007/Documents/GitHub/VRX_NUMarine/build/vrx_ros -- -j8 -l8
+[0.852s] [ 50%] Built target optical_frame_publisher
+[0.853s] [100%] Built target pose_tf_broadcaster
+[0.875s] Invoked command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/vrx_ros' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/azaria007/Documents/GitHub/VRX_NUMarine/build/vrx_ros -- -j8 -l8
+[1.022s] Invoking command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/vrx_ros': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/azaria007/Documents/GitHub/VRX_NUMarine/build/vrx_ros
+[1.058s] -- Install configuration: ""
+[1.058s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/vrx_ros/optical_frame_publisher
+[1.060s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/vrx_ros/pose_tf_broadcaster
+[1.061s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_ros/launch
+[1.063s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_ros/launch/monitor_sim.py
+[1.064s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/ament_index/resource_index/package_run_dependencies/vrx_ros
+[1.064s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/ament_index/resource_index/parent_prefix_path/vrx_ros
+[1.066s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_ros/environment/ament_prefix_path.sh
+[1.066s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_ros/environment/ament_prefix_path.dsv
+[1.066s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_ros/environment/path.sh
+[1.067s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_ros/environment/path.dsv
+[1.067s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_ros/local_setup.bash
+[1.068s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_ros/local_setup.sh
+[1.069s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_ros/local_setup.zsh
+[1.069s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_ros/local_setup.dsv
+[1.069s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_ros/package.dsv
+[1.069s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/ament_index/resource_index/packages/vrx_ros
+[1.069s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_ros/cmake/vrx_rosConfig.cmake
+[1.071s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_ros/cmake/vrx_rosConfig-version.cmake
+[1.072s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_ros/package.xml
+[1.163s] Invoked command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/vrx_ros' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/azaria007/Documents/GitHub/VRX_NUMarine/build/vrx_ros

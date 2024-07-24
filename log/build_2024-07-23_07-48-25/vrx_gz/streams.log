@@ -1,0 +1,455 @@
+[0.372s] Invoking command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/vrx_gz': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble PYTHONPATH=/home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/python3.10/site-packages:/home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages /usr/bin/cmake --build /home/azaria007/Documents/GitHub/VRX_NUMarine/build/vrx_gz -- -j8 -l8
+[0.791s] [  4%] Built target Waves
+[0.942s] [  4%] Built target ament_cmake_python_copy_vrx_gz
+[1.202s] [ 12%] Built target PolyhedraBuoyancyDrag
+[3.501s] running egg_info
+[3.510s] writing vrx_gz.egg-info/PKG-INFO
+[3.512s] writing dependency_links to vrx_gz.egg-info/dependency_links.txt
+[3.512s] writing top-level names to vrx_gz.egg-info/top_level.txt
+[3.519s] reading manifest file 'vrx_gz.egg-info/SOURCES.txt'
+[3.521s] writing manifest file 'vrx_gz.egg-info/SOURCES.txt'
+[3.775s] [ 12%] Built target ament_cmake_python_build_vrx_gz_egg
+[3.954s] [ 16%] Built target ScoringPlugin
+[4.134s] [ 22%] Built target StationkeepingScoringPlugin
+[4.283s] [ 27%] Built target NavigationScoringPlugin
+[4.427s] [ 31%] Built target GymkhanaScoringPlugin
+[4.597s] [ 35%] Built target PerceptionScoringPlugin
+[4.766s] [ 39%] Built target PlacardPlugin
+[4.938s] [ 43%] Built target PublisherPlugin
+[5.115s] [ 47%] Built target ScanDockScoringPlugin
+[5.260s] [ 52%] Built target SimpleHydrodynamics
+[5.414s] [ 56%] Built target Surface
+[5.592s] [ 60%] Built target USVWind
+[5.772s] [ 64%] Built target WaveVisual
+[5.958s] [ 68%] Built target WildlifeScoringPlugin
+[6.113s] [ 72%] Built target LightBuoyPlugin
+[6.325s] [ 77%] Built target BallShooterPlugin
+[6.524s] [ 81%] Built target AcousticPingerPlugin
+[6.720s] [ 87%] Built target AcousticTrackingScoringPlugin
+[6.876s] [ 93%] Built target AcousticPerceptionScoringPlugin
+[7.036s] [100%] Built target WayfindingScoringPlugin
+[7.119s] Invoked command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/vrx_gz' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble PYTHONPATH=/home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/python3.10/site-packages:/home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages /usr/bin/cmake --build /home/azaria007/Documents/GitHub/VRX_NUMarine/build/vrx_gz -- -j8 -l8
+[8.010s] Invoking command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/vrx_gz': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble PYTHONPATH=/home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/python3.10/site-packages:/home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages /usr/bin/cmake --install /home/azaria007/Documents/GitHub/VRX_NUMarine/build/vrx_gz
+[8.088s] -- Install configuration: ""
+[8.090s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/environment/resource_paths.dsv
+[8.092s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/environment/resource_paths.sh
+[8.092s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/libWaves.so
+[8.095s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/libPolyhedraBuoyancyDrag.so
+[8.099s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/libScoringPlugin.so
+[8.100s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/libStationkeepingScoringPlugin.so
+[8.108s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/libWayfindingScoringPlugin.so
+[8.109s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/libAcousticPerceptionScoringPlugin.so
+[8.110s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/libAcousticTrackingScoringPlugin.so
+[8.114s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/libAcousticPingerPlugin.so
+[8.117s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/libBallShooterPlugin.so
+[8.118s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/libLightBuoyPlugin.so
+[8.121s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/libNavigationScoringPlugin.so
+[8.124s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/libGymkhanaScoringPlugin.so
+[8.131s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/libPerceptionScoringPlugin.so
+[8.143s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/libPlacardPlugin.so
+[8.154s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/libPublisherPlugin.so
+[8.155s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/libScanDockScoringPlugin.so
+[8.160s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/libSimpleHydrodynamics.so
+[8.161s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/libSurface.so
+[8.161s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/libUSVWind.so
+[8.161s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/libWaveVisual.so
+[8.161s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/libWildlifeScoringPlugin.so
+[8.162s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/environment/pythonpath.sh
+[8.162s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/environment/pythonpath.dsv
+[8.162s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages/vrx_gz-0.0.0-py3.10.egg-info
+[8.162s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages/vrx_gz-0.0.0-py3.10.egg-info/dependency_links.txt
+[8.162s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages/vrx_gz-0.0.0-py3.10.egg-info/PKG-INFO
+[8.162s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages/vrx_gz-0.0.0-py3.10.egg-info/top_level.txt
+[8.163s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages/vrx_gz-0.0.0-py3.10.egg-info/SOURCES.txt
+[8.163s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages/vrx_gz
+[8.163s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages/vrx_gz/bridge.py
+[8.163s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages/vrx_gz/model.py
+[8.163s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages/vrx_gz/bridges.py
+[8.163s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages/vrx_gz/launch.py
+[8.163s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages/vrx_gz/__init__.py
+[8.163s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages/vrx_gz/payload_bridges.py
+[8.399s] Listing '/home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages/vrx_gz'...
+[8.441s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/config
+[8.442s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/config/wamv.yaml
+[8.443s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/config/roboboat.yaml
+[8.445s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/launch
+[8.446s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/launch/usv_joy_teleop.py
+[8.446s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/launch/spawn_config.launch.py
+[8.447s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/launch/competition.launch.py
+[8.448s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/launch/vrx_environment.launch.py
+[8.449s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/launch/spawn.launch.py
+[8.449s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models
+[8.449s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_round_buoy_orange
+[8.449s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_round_buoy_orange/thumbnails
+[8.450s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_round_buoy_orange/thumbnails/2.png
+[8.450s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_round_buoy_orange/thumbnails/3.png
+[8.450s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_round_buoy_orange/thumbnails/1.png
+[8.450s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_round_buoy_orange/thumbnails/5.png
+[8.450s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_round_buoy_orange/thumbnails/4.png
+[8.451s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_round_buoy_orange/meshes
+[8.452s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_round_buoy_orange/meshes/mb_round_buoy.dae
+[8.452s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_round_buoy_orange/model.config
+[8.453s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_round_buoy_orange/materials
+[8.454s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_round_buoy_orange/materials/textures
+[8.455s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_round_buoy_orange/materials/textures/RoundBarrierBuoy_Base_Color.png
+[8.457s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_round_buoy_orange/materials/textures/RoundBarrierBuoy_Roughness.png
+[8.458s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_round_buoy_orange/model.sdf
+[8.460s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat02
+[8.461s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat02/meshes
+[8.461s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat02/meshes/roboboat02.dae
+[8.462s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat02/model.config
+[8.474s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat02/materials
+[8.475s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat02/materials/scripts
+[8.475s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat02/materials/scripts/model.material
+[8.476s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat02/materials/textures
+[8.476s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat02/materials/textures/Boat02_Metallic.png
+[8.476s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat02/materials/textures/Boat02_Roughness.png
+[8.476s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat02/materials/textures/Boat02_Albedo.png
+[8.476s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat02/materials/textures/Boat02_Normal.png
+[8.476s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat02/model.sdf
+[8.476s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/entrance_exit
+[8.476s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/entrance_exit/model.config
+[8.477s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/entrance_exit/model.sdf
+[8.477s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/foldable_table
+[8.477s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/foldable_table/mesh
+[8.477s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/foldable_table/mesh/foldable_table.png
+[8.477s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/foldable_table/mesh/foldable_table.dae
+[8.477s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/foldable_table/thumbnails
+[8.477s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/foldable_table/thumbnails/2.png
+[8.477s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/foldable_table/thumbnails/3.png
+[8.477s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/foldable_table/thumbnails/1.png
+[8.478s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/foldable_table/thumbnails/5.png
+[8.478s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/foldable_table/thumbnails/4.png
+[8.478s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/foldable_table/model.config
+[8.478s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/foldable_table/model.sdf
+[8.478s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/symbol_triangle
+[8.478s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/symbol_triangle/mesh
+[8.494s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/symbol_triangle/mesh/triangle.dae
+[8.494s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/symbol_triangle/model.config
+[8.494s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/symbol_triangle/model.sdf
+[8.494s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_bgy
+[8.494s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_bgy/model.config
+[8.495s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_bgy/model.sdf
+[8.495s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/short_navigation_course_1
+[8.495s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/short_navigation_course_1/model.config
+[8.495s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/short_navigation_course_1/model.sdf
+[8.495s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_rgb
+[8.495s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_rgb/mesh
+[8.495s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_rgb/mesh/LightTower_Roughness.png
+[8.496s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_rgb/mesh/LightTower_Opacity.png
+[8.496s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_rgb/mesh/LightTower_Normal.png
+[8.496s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_rgb/mesh/LightTower_Albedo.png
+[8.496s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_rgb/mesh/LightTower_Metalness.png
+[8.496s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_rgb/mesh/robotx_light_buoy.dae
+[8.496s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_rgb/model.config
+[8.496s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_rgb/model.sdf
+[8.497s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_ygb
+[8.497s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_ygb/model.config
+[8.497s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_ygb/model.sdf
+[8.497s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_red
+[8.497s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_red/thumbnails
+[8.497s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_red/thumbnails/2.png
+[8.497s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_red/thumbnails/3.png
+[8.497s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_red/thumbnails/1.png
+[8.497s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_red/thumbnails/5.png
+[8.498s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_red/thumbnails/4.png
+[8.498s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_red/meshes
+[8.498s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_red/meshes/mb_marker_buoy.dae
+[8.498s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_red/model.config
+[8.498s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_red/materials
+[8.498s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_red/materials/textures
+[8.498s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_red/materials/textures/MarkerBuoy_Roughness.png
+[8.515s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_red/materials/textures/MarkerBuoy_Base_Color.png
+[8.518s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_red/model.sdf
+[8.519s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/dock_2022
+[8.521s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/dock_2022/model.config
+[8.523s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/dock_2022/model.sdf
+[8.525s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/short_navigation_course_2
+[8.532s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/short_navigation_course_2/model.config
+[8.535s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/short_navigation_course_2/model.sdf
+[8.536s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/post
+[8.536s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/post/thumbnails
+[8.536s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/post/thumbnails/2.png
+[8.536s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/post/thumbnails/3.png
+[8.537s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/post/thumbnails/1.png
+[8.537s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/post/thumbnails/5.png
+[8.537s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/post/thumbnails/4.png
+[8.537s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/post/meshes
+[8.537s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/post/meshes/post.dae
+[8.537s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/post/model.config
+[8.538s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/post/materials
+[8.538s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/post/materials/textures
+[8.538s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/post/materials/textures/post.png
+[8.538s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/post/model.sdf
+[8.538s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/antenna
+[8.538s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/antenna/thumbnails
+[8.540s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/antenna/thumbnails/2.png
+[8.541s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/antenna/thumbnails/3.png
+[8.543s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/antenna/thumbnails/1.png
+[8.544s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/antenna/thumbnails/5.png
+[8.544s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/antenna/thumbnails/4.png
+[8.544s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/antenna/meshes
+[8.544s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/antenna/meshes/antenna.png
+[8.544s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/antenna/meshes/antenna.dae
+[8.544s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/antenna/model.config
+[8.545s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/antenna/model.sdf
+[8.545s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/short_course_2023_phase3_2
+[8.545s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/short_course_2023_phase3_2/model.config
+[8.545s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/short_course_2023_phase3_2/model.sdf
+[8.545s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/ground_station
+[8.545s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/ground_station/thumbnails
+[8.545s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/ground_station/thumbnails/2.png
+[8.545s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/ground_station/thumbnails/3.png
+[8.546s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/ground_station/thumbnails/1.png
+[8.546s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/ground_station/thumbnails/5.png
+[8.546s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/ground_station/thumbnails/4.png
+[8.546s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/ground_station/model.config
+[8.546s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/ground_station/model.sdf
+[8.546s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_ybr
+[8.546s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_ybr/model.config
+[8.547s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_ybr/model.sdf
+[8.547s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_rbg
+[8.547s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_rbg/model.config
+[8.547s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_rbg/model.sdf
+[8.547s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/euro pallet
+[8.547s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/euro pallet/thumbnails
+[8.547s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/euro pallet/thumbnails/2.png
+[8.547s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/euro pallet/thumbnails/3.png
+[8.548s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/euro pallet/thumbnails/1.png
+[8.548s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/euro pallet/thumbnails/5.png
+[8.548s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/euro pallet/thumbnails/4.png
+[8.548s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/euro pallet/meshes
+[8.548s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/euro pallet/meshes/pallet.dae
+[8.548s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/euro pallet/model.config
+[8.548s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/euro pallet/model.sdf
+[8.548s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_white
+[8.548s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_white/thumbnails
+[8.549s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_white/thumbnails/2.png
+[8.549s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_white/thumbnails/3.png
+[8.550s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_white/thumbnails/1.png
+[8.552s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_white/thumbnails/5.png
+[8.567s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_white/thumbnails/4.png
+[8.567s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_white/model.config
+[8.567s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_white/model.sdf
+[8.567s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/short_course_2023_phase3_1
+[8.568s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/short_course_2023_phase3_1/model.config
+[8.568s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/short_course_2023_phase3_1/model.sdf
+[8.568s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_green
+[8.568s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_green/thumbnails
+[8.568s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_green/thumbnails/2.png
+[8.568s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_green/thumbnails/3.png
+[8.568s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_green/thumbnails/1.png
+[8.568s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_green/thumbnails/5.png
+[8.568s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_green/thumbnails/4.png
+[8.569s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_green/model.config
+[8.569s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_green/model.sdf
+[8.569s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_rgy
+[8.569s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_rgy/model.config
+[8.569s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_rgy/model.sdf
+[8.569s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/dock_2022_base
+[8.569s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/dock_2022_base/model.config
+[8.569s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/dock_2022_base/model.sdf
+[8.569s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/sydney_regatta
+[8.570s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/sydney_regatta/thumbnails
+[8.570s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/sydney_regatta/thumbnails/2.png
+[8.570s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/sydney_regatta/thumbnails/3.png
+[8.570s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/sydney_regatta/thumbnails/1.png
+[8.570s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/sydney_regatta/thumbnails/5.png
+[8.570s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/sydney_regatta/thumbnails/4.png
+[8.571s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/sydney_regatta/meshes
+[8.571s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/sydney_regatta/meshes/sydney_regatta.dae
+[8.571s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/sydney_regatta/meshes/sydney_regatta_shore.dae
+[8.571s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/sydney_regatta/model.config
+[8.571s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/sydney_regatta/materials
+[8.572s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/sydney_regatta/materials/textures
+[8.572s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/sydney_regatta/materials/textures/TreeDiffuse.png
+[8.573s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/sydney_regatta/materials/textures/Wall_05.png
+[8.574s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/sydney_regatta/materials/textures/RoofCorrugated.png
+[8.575s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/sydney_regatta/materials/textures/Terrain.png
+[8.576s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/sydney_regatta/materials/textures/DockDark.png
+[8.577s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/sydney_regatta/materials/textures/Dock.png
+[8.577s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/sydney_regatta/materials/textures/MetalGalvanized.png
+[8.585s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/sydney_regatta/materials/textures/Windows_Dark.png
+[8.585s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/sydney_regatta/model.sdf
+[8.585s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/short_navigation_course_5
+[8.586s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/short_navigation_course_5/model.config
+[8.586s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/short_navigation_course_5/model.sdf
+[8.586s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_round_buoy_black
+[8.586s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_round_buoy_black/thumbnails
+[8.586s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_round_buoy_black/thumbnails/2.png
+[8.586s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_round_buoy_black/thumbnails/3.png
+[8.587s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_round_buoy_black/thumbnails/1.png
+[8.588s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_round_buoy_black/thumbnails/5.png
+[8.589s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_round_buoy_black/thumbnails/4.png
+[8.604s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_round_buoy_black/model.config
+[8.604s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_round_buoy_black/model.sdf
+[8.605s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat01
+[8.606s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat01/meshes
+[8.606s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat01/meshes/prop.dae
+[8.611s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat01/meshes/mount.dae
+[8.616s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat01/meshes/housing.dae
+[8.616s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat01/meshes/roboboat01.dae
+[8.617s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat01/model.config
+[8.617s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat01/materials
+[8.617s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat01/materials/scripts
+[8.618s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat01/materials/scripts/model.material
+[8.618s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat01/materials/textures
+[8.625s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat01/materials/textures/Boat01_Roughness.png
+[8.626s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat01/materials/textures/Boat01_Normal.png
+[8.627s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat01/materials/textures/Boat01_Metallic.png
+[8.627s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat01/materials/textures/Thruster_Albedo.png
+[8.629s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat01/materials/textures/Boat01_Albedo.png
+[8.632s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat01/materials/textures/Thruster_Roughness.png
+[8.634s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat01/model.sdf
+[8.634s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_black
+[8.635s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_black/thumbnails
+[8.636s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_black/thumbnails/2.png
+[8.636s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_black/thumbnails/3.png
+[8.637s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_black/thumbnails/1.png
+[8.637s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_black/thumbnails/5.png
+[8.638s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_black/thumbnails/4.png
+[8.651s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_black/model.config
+[8.652s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/mb_marker_buoy_black/model.sdf
+[8.652s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_gbr
+[8.653s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_gbr/model.config
+[8.653s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_gbr/model.sdf
+[8.654s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/coast_waves
+[8.655s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/coast_waves/meshes
+[8.656s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/coast_waves/meshes/waterlow.dae
+[8.656s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/coast_waves/model.config
+[8.658s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/coast_waves/materials
+[8.659s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/coast_waves/materials/programs
+[8.659s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/coast_waves/materials/programs/GerstnerWaves_fs_330.glsl
+[8.662s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/coast_waves/materials/programs/GerstnerWaves_vs_330.glsl
+[8.664s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/coast_waves/materials/textures
+[8.665s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/coast_waves/materials/textures/skybox_lowres.dds
+[8.665s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/coast_waves/materials/textures/wave_normals.dds
+[8.665s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/coast_waves/model.sdf
+[8.666s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/placard_2022
+[8.666s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/placard_2022/meshes
+[8.666s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/placard_2022/meshes/placard_2022.dae
+[8.666s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/placard_2022/model.config
+[8.666s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/placard_2022/materials
+[8.666s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/placard_2022/materials/textures
+[8.666s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/placard_2022/materials/textures/Placard.png
+[8.669s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/placard_2022/model.sdf
+[8.671s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat_cpubox
+[8.682s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat_cpubox/meshes
+[8.684s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat_cpubox/meshes/drybox.dae
+[8.687s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat_cpubox/model.config
+[8.691s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat_cpubox/materials
+[8.693s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat_cpubox/materials/textures
+[8.693s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat_cpubox/materials/textures/DryBox_Albedo.png
+[8.694s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat_cpubox/materials/textures/DryBox_Roughness.png
+[8.694s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/roboboat_cpubox/model.sdf
+[8.694s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_yrg
+[8.694s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_yrg/model.config
+[8.694s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_yrg/model.sdf
+[8.694s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/short_navigation_course_3
+[8.697s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/short_navigation_course_3/model.config
+[8.700s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/short_navigation_course_3/model.sdf
+[8.741s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/platform
+[8.741s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/platform/model.config
+[8.742s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/platform/model.sdf
+[8.743s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/dock_block_4x4
+[8.743s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/dock_block_4x4/mesh
+[8.743s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/dock_block_4x4/mesh/DockCubes_Normal.png
+[8.743s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/dock_block_4x4/mesh/DockCubes_Roughness.png
+[8.743s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/dock_block_4x4/mesh/dock_block_4x4.dae
+[8.743s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/dock_block_4x4/mesh/DockCubes_Albedo.png
+[8.743s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/dock_block_4x4/mesh/DockCubes_Metalness.png
+[8.744s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/dock_block_4x4/model.config
+[8.744s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/dock_block_4x4/model.sdf
+[8.744s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/short_navigation_course_4
+[8.744s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/short_navigation_course_4/model.config
+[8.744s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/short_navigation_course_4/model.sdf
+[8.744s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/obstacle_course
+[8.744s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/obstacle_course/model.config
+[8.744s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/obstacle_course/model.sdf
+[8.745s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_bgr
+[8.745s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_bgr/model.config
+[8.745s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/robotx_light_buoy_bgr/model.sdf
+[8.745s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/short_navigation_course_0
+[8.745s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/short_navigation_course_0/model.config
+[8.745s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/short_navigation_course_0/model.sdf
+[8.745s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/foldable_chair
+[8.745s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/foldable_chair/mesh
+[8.746s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/foldable_chair/mesh/foldable_chair.png
+[8.746s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/foldable_chair/mesh/foldable_chair.dae
+[8.746s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/foldable_chair/thumbnails
+[8.746s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/foldable_chair/thumbnails/2.png
+[8.746s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/foldable_chair/thumbnails/3.png
+[8.746s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/foldable_chair/thumbnails/1.png
+[8.747s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/foldable_chair/thumbnails/5.png
+[8.747s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/foldable_chair/thumbnails/4.png
+[8.747s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/foldable_chair/model.config
+[8.747s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/foldable_chair/model.sdf
+[8.747s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/tent
+[8.747s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/tent/mesh
+[8.747s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/tent/mesh/tent.dae
+[8.748s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/tent/mesh/tent.png
+[8.748s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/tent/thumbnails
+[8.748s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/tent/thumbnails/2.png
+[8.748s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/tent/thumbnails/3.png
+[8.748s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/tent/thumbnails/1.png
+[8.748s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/tent/thumbnails/5.png
+[8.748s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/tent/thumbnails/4.png
+[8.749s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/tent/model.config
+[8.749s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/tent/model.sdf
+[8.749s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/articulated_platform
+[8.749s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/articulated_platform/model.config
+[8.749s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/models/articulated_platform/model.sdf
+[8.749s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds
+[8.749s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/stationkeeping_task.sdf
+[8.749s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/gymkhana_task.sdf
+[8.750s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/navigation_task.sdf
+[8.750s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/wildlife_task.sdf
+[8.750s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/scan_dock_deliver_task.sdf
+[8.750s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/acoustic_tracking_task.sdf
+[8.750s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/acoustic_perception_task.sdf
+[8.750s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/sydney_regatta.sdf
+[8.750s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/wayfinding_task.sdf
+[8.750s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/nbpark.sdf
+[8.751s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/follow_path_task.sdf
+[8.751s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/2023_practice
+[8.751s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/2023_practice/practice_2023_acoustic_perception1_task.sdf
+[8.751s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/2023_practice/practice_2023_wayfinding2_task.sdf
+[8.751s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/2023_practice/practice_2023_scan_dock_deliver2_task.sdf
+[8.751s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/2023_practice/practice_2023_wayfinding1_task.sdf
+[8.751s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/2023_practice/practice_2023_follow_path0_task.sdf
+[8.751s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/2023_practice/practice_2023_scan_dock_deliver0_task.sdf
+[8.752s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/2023_practice/practice_2023_stationkeeping2_task.sdf
+[8.752s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/2023_practice/practice_2023_follow_path2_task.sdf
+[8.752s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/2023_practice/practice_2023_scan_dock_deliver1_task.sdf
+[8.752s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/2023_practice/practice_2023_perception1_task.sdf
+[8.752s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/2023_practice/practice_2023_acoustic_perception0_task.sdf
+[8.752s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/2023_practice/practice_2023_perception2_task.sdf
+[8.753s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/2023_practice/practice_2023_wayfinding0_task.sdf
+[8.753s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/2023_practice/practice_2023_wildlife2_task.sdf
+[8.754s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/2023_practice/practice_2023_acoustic_tracking2_task.sdf
+[8.754s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/2023_practice/practice_2023_acoustic_perception2_task.sdf
+[8.755s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/2023_practice/practice_2023_acoustic_tracking0_task.sdf
+[8.759s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/2023_practice/practice_2023_wildlife1_task.sdf
+[8.760s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/2023_practice/practice_2023_wildlife0_task.sdf
+[8.761s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/2023_practice/practice_2023_perception0_task.sdf
+[8.762s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/2023_practice/practice_2023_acoustic_tracking1_task.sdf
+[8.763s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/2023_practice/practice_2023_stationkeeping0_task.sdf
+[8.764s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/2023_practice/practice_2023_stationkeeping1_task.sdf
+[8.767s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/2023_practice/practice_2023_follow_path1_task.sdf
+[8.768s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/worlds/perception_task.sdf
+[8.769s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/ament_index/resource_index/package_run_dependencies/vrx_gz
+[8.770s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/ament_index/resource_index/parent_prefix_path/vrx_gz
+[8.770s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/environment/ament_prefix_path.sh
+[8.770s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/environment/ament_prefix_path.dsv
+[8.771s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/environment/path.sh
+[8.771s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/environment/path.dsv
+[8.772s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/local_setup.bash
+[8.773s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/local_setup.sh
+[8.775s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/local_setup.zsh
+[8.778s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/local_setup.dsv
+[8.778s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/package.dsv
+[8.780s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/ament_index/resource_index/packages/vrx_gz
+[8.782s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/cmake/vrx_gzConfig.cmake
+[8.783s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/cmake/vrx_gzConfig-version.cmake
+[8.785s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gz/package.xml
+[8.788s] Invoked command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/vrx_gz' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble PYTHONPATH=/home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/python3.10/site-packages:/home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages /usr/bin/cmake --install /home/azaria007/Documents/GitHub/VRX_NUMarine/build/vrx_gz

@@ -74,11 +74,18 @@ def launch(context, *args, **kwargs):
 def generate_launch_description():
 
     pkg_vrx_gazebo = get_package_share_directory('vrx_gazebo')
+    pkg_mpc_controller = get_package_share_directory('mpc_controller_pkg')
 
     rviz = IncludeLaunchDescription(
                 PythonLaunchDescriptionSource(
                     os.path.join(pkg_vrx_gazebo, 'launch', 'rviz.launch.py')
                 ))
+    mpc_controller_launch = IncludeLaunchDescription(
+                PythonLaunchDescriptionSource(
+                    os.path.join(pkg_mpc_controller, 'launch', 'mpc_launch.py')
+                ))
+
+
     return LaunchDescription([
         # Launch Arguments
         DeclareLaunchArgument(
@@ -126,5 +133,6 @@ def generate_launch_description():
             default_value='',
             description='Additional arguments to be passed to gz sim. '),
         OpaqueFunction(function=launch),
-        rviz
+        rviz,
+        mpc_controller_launch
     ])

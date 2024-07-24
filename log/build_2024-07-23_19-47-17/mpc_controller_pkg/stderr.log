@@ -1,0 +1,5 @@
+  File "/home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/python3.10/site-packages/mpc_controller_pkg/mpc_node.py", line 859
+    if self.currentwaypoint >= self.waypoints.shape[1]]:
+                                                      ^
+SyntaxError: unmatched ']'
+

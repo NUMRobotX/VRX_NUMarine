@@ -1,0 +1,125 @@
+[0.610s] Invoking command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/vrx_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/azaria007/Documents/GitHub/VRX_NUMarine/build/vrx_gazebo -- -j8 -l8
+[3.842s] Built target ament_cmake_python_copy_vrx_gazebo
+[4.000s] running egg_info
+[4.014s] writing vrx_gazebo.egg-info/PKG-INFO
+[4.018s] writing dependency_links to vrx_gazebo.egg-info/dependency_links.txt
+[4.020s] writing top-level names to vrx_gazebo.egg-info/top_level.txt
+[4.053s] reading manifest file 'vrx_gazebo.egg-info/SOURCES.txt'
+[4.063s] writing manifest file 'vrx_gazebo.egg-info/SOURCES.txt'
+[4.626s] Built target ament_cmake_python_build_vrx_gazebo_egg
+[4.704s] Invoked command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/vrx_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/azaria007/Documents/GitHub/VRX_NUMarine/build/vrx_gazebo -- -j8 -l8
+[5.219s] Invoking command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/vrx_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/azaria007/Documents/GitHub/VRX_NUMarine/build/vrx_gazebo
+[5.326s] -- Install configuration: ""
+[5.326s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/environment/resource_paths.dsv
+[5.326s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/environment/resource_paths.sh
+[5.326s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models
+[5.338s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/battery
+[5.344s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/battery/mesh
+[5.349s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/battery/mesh/battery_Normal.png
+[5.351s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/battery/mesh/battery_Roughness.png
+[5.356s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/battery/mesh/battery_Albedo.png
+[5.384s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/battery/mesh/battery_Metalness.png
+[5.391s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/battery/mesh/battery.dae
+[5.391s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/battery/mesh/battery.png
+[5.391s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/battery/model.config
+[5.392s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/battery/model.sdf
+[5.392s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/cpu_cases
+[5.392s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/cpu_cases/mesh
+[5.392s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/cpu_cases/mesh/cpu_cases.png
+[5.392s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/cpu_cases/mesh/cpu_cases_Albedo.png
+[5.393s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/cpu_cases/mesh/cpu_cases_Normal.png
+[5.393s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/cpu_cases/mesh/cpu_cases_Roughness.png
+[5.393s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/cpu_cases/mesh/cpu_cases.dae
+[5.393s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/cpu_cases/mesh/cpu_cases_Metalness.png
+[5.393s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/cpu_cases/model.config
+[5.394s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/cpu_cases/model.sdf
+[5.394s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/sensor_post
+[5.394s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/sensor_post/mesh
+[5.394s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/sensor_post/mesh/sensor_post.dae
+[5.397s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/sensor_post/mesh/sensor_post_arm.dae
+[5.397s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/sensor_post/mesh/sensor_post.png
+[5.397s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/sensor_post/model.config
+[5.397s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/sensor_post/model.sdf
+[5.397s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/mono_camera
+[5.398s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/mono_camera/mesh
+[5.400s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/mono_camera/mesh/mono_camera_Albedo.png
+[5.407s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/mono_camera/mesh/mono_camera_Roughness.png
+[5.407s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/mono_camera/mesh/mono_camera_Normal.png
+[5.409s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/mono_camera/mesh/mono_camera.png
+[5.410s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/mono_camera/mesh/mono_camera_Metalness.png
+[5.411s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/mono_camera/mesh/mono_camera.dae
+[5.411s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/mono_camera/model.config
+[5.411s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/mono_camera/model.sdf
+[5.411s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/3d_lidar
+[5.411s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/3d_lidar/mesh
+[5.412s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/3d_lidar/mesh/3d_lidar.dae
+[5.412s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/3d_lidar/mesh/3d_Lidar_Albedo.png
+[5.412s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/3d_lidar/mesh/3d_Lidar_Roughness.png
+[5.412s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/3d_lidar/mesh/3d_Lidar_Normal.png
+[5.412s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/3d_lidar/mesh/3d_lidar.png
+[5.412s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/3d_lidar/mesh/3d_Lidar_Metalness.png
+[5.412s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/3d_lidar/model.config
+[5.415s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/3d_lidar/model.sdf
+[5.416s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/blue_projectile
+[5.429s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/blue_projectile/model.config
+[5.431s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/blue_projectile/model.sdf
+[5.432s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/ball_shooter
+[5.435s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/ball_shooter/meshes
+[5.438s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/ball_shooter/meshes/Launcher_Albedo.png
+[5.443s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/ball_shooter/meshes/Glass_BaseColor.png
+[5.444s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/ball_shooter/meshes/ball_shooter_launcher.dae
+[5.445s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/ball_shooter/meshes/Launcher_BaseColor.png
+[5.446s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/ball_shooter/meshes/ball_shooter_base.dae
+[5.449s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/ball_shooter/model.config
+[5.451s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/ball_shooter/materials
+[5.452s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/ball_shooter/materials/Textures
+[5.454s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/ball_shooter/materials/Textures/Launcher_Metalness.png
+[5.455s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/ball_shooter/materials/Textures/Launcher_Albedo.png
+[5.456s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/ball_shooter/materials/Textures/Launcher_Roughness.png
+[5.460s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/ball_shooter/materials/Textures/Launcher_Normal.png
+[5.463s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/models/ball_shooter/model.sdf
+[5.465s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/launch
+[5.466s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/launch/rviz.launch.py
+[5.468s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/launch/generate_wamv.launch.py
+[5.469s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/config
+[5.471s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/config/rviz_vrx_final.rviz
+[5.473s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/config/wamv_config
+[5.478s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/config/wamv_config/example_thruster_config.yaml
+[5.480s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/config/wamv_config/example_component_config.yaml
+[5.484s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/config/wamv_config/component_compliance
+[5.487s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/config/wamv_config/component_compliance/bounding_boxes.yaml
+[5.496s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/config/wamv_config/component_compliance/numeric.yaml
+[5.503s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/config/wamv_config/thruster_compliance
+[5.503s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/config/wamv_config/thruster_compliance/bounding_boxes.yaml
+[5.503s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/config/wamv_config/thruster_compliance/numeric.yaml
+[5.503s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/config/rviz_vrx_rsp.rviz
+[5.504s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/vrx_gazebo/generate_wamv.py
+[5.506s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/environment/pythonpath.sh
+[5.507s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/environment/pythonpath.dsv
+[5.508s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages/vrx_gazebo-1.3.0-py3.10.egg-info
+[5.514s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages/vrx_gazebo-1.3.0-py3.10.egg-info/dependency_links.txt
+[5.515s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages/vrx_gazebo-1.3.0-py3.10.egg-info/PKG-INFO
+[5.517s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages/vrx_gazebo-1.3.0-py3.10.egg-info/top_level.txt
+[5.520s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages/vrx_gazebo-1.3.0-py3.10.egg-info/SOURCES.txt
+[5.523s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages/vrx_gazebo
+[5.524s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages/vrx_gazebo/compliance.py
+[5.527s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages/vrx_gazebo/__init__.py
+[5.529s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages/vrx_gazebo/configure_wamv.py
+[5.532s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages/vrx_gazebo/utils.py
+[5.814s] Listing '/home/azaria007/Documents/GitHub/VRX_NUMarine/install/local/lib/python3.10/dist-packages/vrx_gazebo'...
+[5.863s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/ament_index/resource_index/package_run_dependencies/vrx_gazebo
+[5.864s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/ament_index/resource_index/parent_prefix_path/vrx_gazebo
+[5.869s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/environment/ament_prefix_path.sh
+[5.872s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/environment/ament_prefix_path.dsv
+[5.873s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/environment/path.sh
+[5.885s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/environment/path.dsv
+[5.885s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/local_setup.bash
+[5.885s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/local_setup.sh
+[5.886s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/local_setup.zsh
+[5.893s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/local_setup.dsv
+[5.894s] -- Installing: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/package.dsv
+[5.910s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/ament_index/resource_index/packages/vrx_gazebo
+[5.913s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/cmake/vrx_gazeboConfig.cmake
+[5.914s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/cmake/vrx_gazeboConfig-version.cmake
+[5.915s] -- Up-to-date: /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/vrx_gazebo/package.xml
+[6.206s] Invoked command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/vrx_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/azaria007/Documents/GitHub/VRX_NUMarine/build/vrx_gazebo

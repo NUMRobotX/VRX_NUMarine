@@ -1,0 +1,27 @@
+running egg_info
+writing ../../../../build/mpc_controller_pkg/mpc_controller_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../../../build/mpc_controller_pkg/mpc_controller_pkg.egg-info/dependency_links.txt
+writing entry points to ../../../../build/mpc_controller_pkg/mpc_controller_pkg.egg-info/entry_points.txt
+writing requirements to ../../../../build/mpc_controller_pkg/mpc_controller_pkg.egg-info/requires.txt
+writing top-level names to ../../../../build/mpc_controller_pkg/mpc_controller_pkg.egg-info/top_level.txt
+reading manifest file '../../../../build/mpc_controller_pkg/mpc_controller_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../../../build/mpc_controller_pkg/mpc_controller_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+copying mpc_controller_pkg/mpc_node.py -> /home/azaria007/Documents/GitHub/VRX_NUMarine/build/mpc_controller_pkg/build/lib/mpc_controller_pkg
+running install
+running install_lib
+copying /home/azaria007/Documents/GitHub/VRX_NUMarine/build/mpc_controller_pkg/build/lib/mpc_controller_pkg/mpc_node.py -> /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/python3.10/site-packages/mpc_controller_pkg
+byte-compiling /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/python3.10/site-packages/mpc_controller_pkg/mpc_node.py to mpc_node.cpython-310.pyc
+running install_data
+  File "/home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/python3.10/site-packages/mpc_controller_pkg/mpc_node.py", line 866
+    if self.currentwaypoint >= self.waypoints.shape[1]]:
+                                                      ^
+SyntaxError: unmatched ']'
+
+running install_egg_info
+removing '/home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/python3.10/site-packages/mpc_controller_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../../../build/mpc_controller_pkg/mpc_controller_pkg.egg-info to /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/python3.10/site-packages/mpc_controller_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing mpc_node script to /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/mpc_controller_pkg
+writing list of installed files to '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/mpc_controller_pkg/install.log'

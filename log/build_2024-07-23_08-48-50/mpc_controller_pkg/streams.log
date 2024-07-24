@@ -1,0 +1,24 @@
+[2.229s] Invoking command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/src/vrx/ros_packages/mpc_controller_pkg': PYTHONPATH=/home/azaria007/Documents/GitHub/VRX_NUMarine/build/mpc_controller_pkg/prefix_override:/home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../build/mpc_controller_pkg build --build-base /home/azaria007/Documents/GitHub/VRX_NUMarine/build/mpc_controller_pkg/build install --record /home/azaria007/Documents/GitHub/VRX_NUMarine/build/mpc_controller_pkg/install.log --single-version-externally-managed install_data
+[2.926s] running egg_info
+[2.927s] writing ../../../../build/mpc_controller_pkg/mpc_controller_pkg.egg-info/PKG-INFO
+[2.928s] writing dependency_links to ../../../../build/mpc_controller_pkg/mpc_controller_pkg.egg-info/dependency_links.txt
+[2.928s] writing entry points to ../../../../build/mpc_controller_pkg/mpc_controller_pkg.egg-info/entry_points.txt
+[2.929s] writing requirements to ../../../../build/mpc_controller_pkg/mpc_controller_pkg.egg-info/requires.txt
+[2.929s] writing top-level names to ../../../../build/mpc_controller_pkg/mpc_controller_pkg.egg-info/top_level.txt
+[2.934s] reading manifest file '../../../../build/mpc_controller_pkg/mpc_controller_pkg.egg-info/SOURCES.txt'
+[2.938s] writing manifest file '../../../../build/mpc_controller_pkg/mpc_controller_pkg.egg-info/SOURCES.txt'
+[2.939s] running build
+[2.940s] running build_py
+[2.942s] copying mpc_controller_pkg/mpc_node.py -> /home/azaria007/Documents/GitHub/VRX_NUMarine/build/mpc_controller_pkg/build/lib/mpc_controller_pkg
+[2.944s] running install
+[2.946s] running install_lib
+[2.947s] copying /home/azaria007/Documents/GitHub/VRX_NUMarine/build/mpc_controller_pkg/build/lib/mpc_controller_pkg/mpc_node.py -> /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/python3.10/site-packages/mpc_controller_pkg
+[2.950s] byte-compiling /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/python3.10/site-packages/mpc_controller_pkg/mpc_node.py to mpc_node.cpython-310.pyc
+[2.960s] running install_data
+[2.961s] running install_egg_info
+[2.967s] removing '/home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/python3.10/site-packages/mpc_controller_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[2.968s] Copying ../../../../build/mpc_controller_pkg/mpc_controller_pkg.egg-info to /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/python3.10/site-packages/mpc_controller_pkg-0.0.0-py3.10.egg-info
+[2.974s] running install_scripts
+[3.038s] Installing mpc_node script to /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/mpc_controller_pkg
+[3.038s] writing list of installed files to '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/mpc_controller_pkg/install.log'
+[3.179s] Invoked command in '/home/azaria007/Documents/GitHub/VRX_NUMarine/src/vrx/ros_packages/mpc_controller_pkg' returned '0': PYTHONPATH=/home/azaria007/Documents/GitHub/VRX_NUMarine/build/mpc_controller_pkg/prefix_override:/home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../build/mpc_controller_pkg build --build-base /home/azaria007/Documents/GitHub/VRX_NUMarine/build/mpc_controller_pkg/build install --record /home/azaria007/Documents/GitHub/VRX_NUMarine/build/mpc_controller_pkg/install.log --single-version-externally-managed install_data

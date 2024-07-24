@@ -1,0 +1,37 @@
+running egg_info
+creating ../../../../build/mpc_controller_pkg/mpc_controller_pkg.egg-info
+writing ../../../../build/mpc_controller_pkg/mpc_controller_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../../../build/mpc_controller_pkg/mpc_controller_pkg.egg-info/dependency_links.txt
+writing entry points to ../../../../build/mpc_controller_pkg/mpc_controller_pkg.egg-info/entry_points.txt
+writing requirements to ../../../../build/mpc_controller_pkg/mpc_controller_pkg.egg-info/requires.txt
+writing top-level names to ../../../../build/mpc_controller_pkg/mpc_controller_pkg.egg-info/top_level.txt
+writing manifest file '../../../../build/mpc_controller_pkg/mpc_controller_pkg.egg-info/SOURCES.txt'
+reading manifest file '../../../../build/mpc_controller_pkg/mpc_controller_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../../../build/mpc_controller_pkg/mpc_controller_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/azaria007/Documents/GitHub/VRX_NUMarine/build/mpc_controller_pkg/build
+creating /home/azaria007/Documents/GitHub/VRX_NUMarine/build/mpc_controller_pkg/build/lib
+creating /home/azaria007/Documents/GitHub/VRX_NUMarine/build/mpc_controller_pkg/build/lib/mpc_controller_pkg
+copying mpc_controller_pkg/__init__.py -> /home/azaria007/Documents/GitHub/VRX_NUMarine/build/mpc_controller_pkg/build/lib/mpc_controller_pkg
+copying mpc_controller_pkg/mpc_node.py -> /home/azaria007/Documents/GitHub/VRX_NUMarine/build/mpc_controller_pkg/build/lib/mpc_controller_pkg
+running install
+running install_lib
+creating /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/python3.10/site-packages/mpc_controller_pkg
+copying /home/azaria007/Documents/GitHub/VRX_NUMarine/build/mpc_controller_pkg/build/lib/mpc_controller_pkg/__init__.py -> /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/python3.10/site-packages/mpc_controller_pkg
+copying /home/azaria007/Documents/GitHub/VRX_NUMarine/build/mpc_controller_pkg/build/lib/mpc_controller_pkg/mpc_node.py -> /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/python3.10/site-packages/mpc_controller_pkg
+byte-compiling /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/python3.10/site-packages/mpc_controller_pkg/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/python3.10/site-packages/mpc_controller_pkg/mpc_node.py to mpc_node.cpython-310.pyc
+running install_data
+creating /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/ament_index
+creating /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/ament_index/resource_index
+creating /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/ament_index/resource_index/packages
+copying resource/mpc_controller_pkg -> /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/ament_index/resource_index/packages
+copying package.xml -> /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/mpc_controller_pkg
+creating /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/mpc_controller_pkg/launch
+copying launch/mpc_launch.py -> /home/azaria007/Documents/GitHub/VRX_NUMarine/install/share/mpc_controller_pkg/launch
+running install_egg_info
+Copying ../../../../build/mpc_controller_pkg/mpc_controller_pkg.egg-info to /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/python3.10/site-packages/mpc_controller_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing mpc_node script to /home/azaria007/Documents/GitHub/VRX_NUMarine/install/lib/mpc_controller_pkg
+writing list of installed files to '/home/azaria007/Documents/GitHub/VRX_NUMarine/build/mpc_controller_pkg/install.log'
